@@ -1,0 +1,6 @@
+name: ThirdParty
+author: raiid_dev
+version: 1.0.0
+description: ThirdParty client for Spigot.
+main: net.raiid.thirdparty.client.spigot.ThirdParty
+load: POSTWORLD

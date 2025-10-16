@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "thirdparty",
+  "version": "1.0.0",
+  "name": "ThirdParty",
+  "description": "ThirdParty client for Fabric.",
+  "authors": ["raiid_dev"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "server": [
+      "net.raiid.thirdparty.client.fabric.ThirdParty"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0"
+  }
+}
